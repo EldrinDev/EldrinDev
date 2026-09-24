@@ -10,9 +10,7 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,mysql,git,github,postman,,supabase"/>
-</p>
+<p align="left">   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,mysql,git,github,postman,supabase"/> </p>
 
 ---
 
@@ -31,15 +29,6 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 * Collaborated with frontend and backend teams for API integration.
 * Guided fellow interns with Git, repository setup, API testing, and development workflows.
 * Explored **React Native, Kotlin, Flutter, Supabase, Google Authentication, Google Analytics, and Smartlinks**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldrindev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldrindev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
