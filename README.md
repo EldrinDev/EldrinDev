@@ -1,8 +1,8 @@
 # Hi, I'm Eldrin Ragaza 👋
 
-### 💻 Software Engineering Student | Full-Stack Developer
+### 💻 Software Engineering Student | Full-Stack Developer Intern
 
-I'm a **BS Information Technology student majoring in Software Engineering**, passionate about building reliable and user-focused software.
+I'm a **BS Information Technology student**, passionate about building reliable and user-focused software.
 
 I enjoy working across both **frontend and backend development**, with hands-on experience in **Laravel REST APIs, Next.js, React, database development, automated testing, API integration, Git workflows, and enterprise web applications**.
 
@@ -10,7 +10,7 @@ I enjoy working across both **frontend and backend development**, with hands-on 
 
 ## 🚀 About Me
 
-* 🎓 BS Information Technology — Software Engineering
+* 🎓 BS Information Technology
 * 💼 Full-Stack Developer Intern at **Stafify BPO & Digital Agency**
 * 🔭 Currently working on web applications and API-driven systems
 * 🌱 Continuously learning software engineering, backend development, and modern web technologies
