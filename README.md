@@ -11,7 +11,7 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,mysql,git,github,postman,,supabase,googleanalytics&perline=16" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,mysql,git,github,postman,,supabase"/>
 </p>
 
 ---
