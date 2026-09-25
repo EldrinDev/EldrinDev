@@ -1,6 +1,6 @@
 # Hi, I'm Eldrin Ragaza 👋
 
-### 💻 Software Engineering Student | Full-Stack Developer
+### 💻 Software Engineering Student | Full-Stack Developer Intern
 
 I'm a BS Information Technology student specializing in **Software Engineering**, passionate about building modern web applications, developing REST APIs, and solving real-world problems through software.
 
@@ -54,10 +54,6 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 
 <a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
-
-<a href="https://www.openapis.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="45" alt="REST API / OpenAPI"/>
 </a>
 
 <a href="https://www.postman.com/" target="_blank">
