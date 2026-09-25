@@ -14,24 +14,6 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 
 ---
 
-## 💼 Internship Experience
-
-**Full-Stack Developer Intern — Stafify BPO & Digital Agency**
-
-* Developed and tested **Laravel REST APIs** across multiple ERP modules.
-* Worked with **HRIS, UMS, CRM, AFIS, PMS, AMS, and E-Commerce** systems.
-* Implemented authentication, session cookies, token refresh, CORS, and API endpoints.
-* Created and maintained **Feature Tests** using Pest and TDD practices.
-* Tested APIs using **Postman** and **Scramble API Documentation**.
-* Built and improved responsive interfaces and landing pages.
-* Fixed bugs and improved functionality across staging and production systems.
-* Used Git branching, rebasing, pull requests, merge conflict resolution, and collaborative workflows.
-* Collaborated with frontend and backend teams for API integration.
-* Guided fellow interns with Git, repository setup, API testing, and development workflows.
-* Explored **React Native, Kotlin, Flutter, Supabase, Google Authentication, Google Analytics, and Smartlinks**.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
