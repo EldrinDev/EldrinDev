@@ -12,61 +12,61 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 
 <p align="left">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/>
+</a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"/>
+</a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+</a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/>
-  </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
+</a>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
-  </a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+</a>
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"/>
-  </a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/>
+</a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/>
-  </a>
+<a href="https://www.php.net/" target="_blank">
+<img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP"/>
+</a>
 
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel"/>
-  </a>
+<a href="https://laravel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel"/>
+</a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
-  </a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
+</a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-  </a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+</a>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
 
-  <a href="https://www.openapis.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openapi" width="50" alt="REST API / OpenAPI"/>
-  </a>
+<a href="https://www.openapis.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="45" alt="REST API / OpenAPI"/>
+</a>
 
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/>
-  </a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/>
+</a>
 
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase"/>
-  </a>
+<a href="https://supabase.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=supabase" width="45" alt="Supabase"/>
+</a>
 
 </p>
 
@@ -76,7 +76,7 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eldrin-ragaza/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
 </p>
 
