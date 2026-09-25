@@ -56,6 +56,10 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
+<a href="https://www.openapis.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/openapi" width="50" alt="REST API / OpenAPI"/>
+</a>
+
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=postman" width="45" />
 </a>
