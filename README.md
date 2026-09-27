@@ -71,6 +71,9 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/EldrinDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="Github"/>
+  </a>
   <a href="https://www.linkedin.com/in/eldrin-ragaza/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
