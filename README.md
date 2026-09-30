@@ -28,6 +28,10 @@ During my internship at **Stafify BPO & Digital Agency**, I gained hands-on expe
 <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
 </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind"/>
+</a>
+
 <a href="https://react.dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
 </a>
